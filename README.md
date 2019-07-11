@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/santiagogregory/sphinx/badge)](https://www.codefactor.io/repository/github/santiagogregory/sphinx)
 # Sphinx
 An online cryptocurrency wallet viewer and trading simulator.
 
