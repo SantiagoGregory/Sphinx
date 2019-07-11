@@ -2,4 +2,4 @@
 An online cryptocurrency wallet viewer and trading simulator.
 
 ## Environment Setup
-cd into /react/sphinx and run npm rebuild to reinstall packages.
+cd into /react/sphinx and run npm build to reinstall packages.
